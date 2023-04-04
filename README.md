@@ -1,12 +1,16 @@
 # Minehub Project (IT)
 
+Back-end Link: https://github.com/albedim/Minehub-BE<br>
+Fron-end Link: https://github.com/albedim/Minehub-FE
+
 This is an open source project that you can configure as you want in order to make the website for your minecraft server.
 Everything is configurable, **change**, **try** & **enjoy**!
 
 # How to start?
 
 It's really simple, these are the steps you need to follow.
-The project is made with React JS, MySQL & Python.
+The project is made with React JS, MySQL & Python 3.10.
+I know that better frameworks exist for back-end but i decided to use Flask & python because you can deploy easier
 
 - This is the front-end link. Download it: https://github.com/OpenDeel/Minehub-FE
 
