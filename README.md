@@ -12,7 +12,7 @@ It's really simple, these are the steps you need to follow.
 The project is made with React JS, MySQL & Python 3.10.
 I know that better frameworks exist for back-end but i decided to use Flask & python because you can deploy easier
 
-- This is the front-end link. Download it: https://github.com/OpenDeel/Minehub-FE
+- This is the front-end link. Download it: https://github.com/albedim/Minehub-FE
 
 - Open the folder you have just downloaded and run the terminal. Run this command:
   > npm install
@@ -25,7 +25,7 @@ I know that better frameworks exist for back-end but i decided to use Flask & py
   > export const INSTAGRAM = "Instagram link of the server"<br>
   > export const SERVER_IP = "Server Ip"<br>
   
-- Now you need to download the back-end, this is the link: https://github.com/OpenDeel/Minehub-BE
+- Now you need to download the back-end, this is the link: https://github.com/albedim/Minehub-BE
   
 - Open the folder you have just downloaded and run the terminal. Run this commands:
   > python -m venv env<br>
